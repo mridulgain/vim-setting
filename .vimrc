@@ -1,5 +1,5 @@
 " set line no
-set nu
+set number relativenumber
 
 " indents based on file extension
 filetype plugin indent on
